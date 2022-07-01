@@ -12,8 +12,11 @@ let handler = async (m, { conn }) => {
   title: `${await conn.getName(conn.user.jid)}`,
   description: ` *• SEWA BOT & UP TO PREMIUM •*
         
-1. Grup / Permanen
-Rp. 5.000 / Grub
+1. 3 Grub Permanen
+ 12.000
+2. Grub/ Permanen
+ 5.000
+
 
 wa.me/${owner[0]}
 *Bukan Bot!!!*
@@ -27,7 +30,7 @@ wa.me/${owner[0]}
   products:[{productId:'7487741964584083'}]}],
   headerImage: { productId: '7487741964584083',
   jpegThumbnail: baper },
-  businessOwnerJid: `6289654360447@s.whatsapp.net`
+  businessOwnerJid: `6283843341572@s.whatsapp.net`
   },
   footerText: 'https://aiinne.github.io',
   }},{})
